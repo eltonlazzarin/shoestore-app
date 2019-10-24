@@ -18,11 +18,11 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/shoestore-app.svg">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/eltonlazzarin/shoestore-app.svg">
-  <a href="https://github.com/lukemorales/react-rocketshoes/commits/master">
+  <a href="https://github.com/eltonlazzarin/shoestore/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/shoestore-app.svg">
   </a>
 
-  <a href="https://github.com/lukemorales/react-rocketshoes/issues">
+  <a href="https://github.com/eltonlazzarin/shoestore-app/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/eltonlazzarin/shoestore-app.svg">
   </a>
 
