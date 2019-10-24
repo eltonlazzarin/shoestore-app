@@ -1,17 +1,13 @@
 <h1 align="center">
-    <img alt="React RocketShoes" src="https://github.com/eltonlazzarin/shoestore-app/blob/master/public/readmeassets/mainpage.png" />
+    <img alt="React RocketShoes" src="https://res.cloudinary.com/lukemorales/image/upload/v1562696000/readme_logos/react-rocketshoes_jy1lze.png" />
     <br>
     React RocketShoes
-</h1>
-
-<h1 align="center">
-    <img alt="React RocketShoes" src="https://github.com/eltonlazzarin/shoestore-app/blob/master/public/readmeassets/cartpage.png" />
-    <br>
 </h1>
 
 <h4 align="center">
   NetShoes Clone WebApp with React and Redux.
 </h4>
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/shoestore-app.svg">
 
@@ -29,7 +25,15 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/shoestore-app.svg">
 </p>
 
-![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1563042321/readme_logos/rocketshoes_readme_swvhr9.png)
+<h1 align="center">
+    <img alt="React RocketShoes" src="https://github.com/eltonlazzarin/shoestore-app/blob/master/public/readmeassets/mainpage.png" />
+    <br>
+</h1>
+
+<h1 align="center">
+    <img alt="React RocketShoes" src="https://github.com/eltonlazzarin/shoestore-app/blob/master/public/readmeassets/cartpage.png" />
+    <br>
+</h1>
 
 <p align="center">
   <a href="https://rocketshoes.netlify.com/" target="_blank">
@@ -56,11 +60,9 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 - [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner)
 - [json-server](https://github.com/typicode/json-server)
 - [Reactotron](https://infinite.red/reactotron)
-- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ## :information_source: How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
