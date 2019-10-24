@@ -1,31 +1,32 @@
 <h1 align="center">
-    <img alt="React RocketShoes" src="https://res.cloudinary.com/lukemorales/image/upload/v1562696000/readme_logos/react-rocketshoes_jy1lze.png" />
+    <img alt="React RocketShoes" src="https://github.com/eltonlazzarin/shoestore-app/blob/master/public/readmeassets/mainpage.png" />
     <br>
     React RocketShoes
+</h1>
+
+<h1 align="center">
+    <img alt="React RocketShoes" src="https://github.com/eltonlazzarin/shoestore-app/blob/master/public/readmeassets/cartpage.png" />
+    <br>
 </h1>
 
 <h4 align="center">
   NetShoes Clone WebApp with React and Redux.
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/react-rocketshoes.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/shoestore-app.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/react-rocketshoes.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/shoestore-app.svg">
 
-  <a href="https://www.codacy.com/app/lukemorales/react-rocketshoes?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/react-rocketshoes&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg">
-  </a>
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/react-rocketshoes.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/eltonlazzarin/shoestore-app.svg">
   <a href="https://github.com/lukemorales/react-rocketshoes/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/react-rocketshoes.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/shoestore-app.svg">
   </a>
 
   <a href="https://github.com/lukemorales/react-rocketshoes/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/react-rocketshoes.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/eltonlazzarin/shoestore-app.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/react-rocketshoes.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/shoestore-app.svg">
 </p>
 
 ![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1563042321/readme_logos/rocketshoes_readme_swvhr9.png)
@@ -77,7 +78,7 @@ $ yarn start
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-rocketshoes/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/shoestore-app/blob/master/LICENSE) for more information.
 
 ---
 
