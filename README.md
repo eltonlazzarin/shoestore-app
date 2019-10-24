@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  NetShoes Clone WebApp with React and Redux.
+  Netshoes Clone WebApp with React and Redux.
 </h4>
 
 <p align="center">
