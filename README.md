@@ -35,7 +35,7 @@
     <br>
 </h1>
 
-<p align="center">See Demo on</p>
+<h1 align="center">See Demo on</h1>
 
 <p align="center">
   <a href="https://shoestore-app.herokuapp.com/" target="_blank">
