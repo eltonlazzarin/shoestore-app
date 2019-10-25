@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://shoestore-app.herokuapp.com/" target="_blank">
-    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
+    <img alt="Demo on Heroku" src="https://github.com/eltonlazzarin/shoestore-app/blob/master/public/readmeassets/heroku.png">
   </a>
 </p>
 
