@@ -76,6 +76,9 @@ $ cd shoestore-app
 # Install dependencies
 $ yarn
 
+# Run the fake API
+$ json-server server.json -p 3333
+
 # Run the app
 $ yarn start
 ```
