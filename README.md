@@ -36,7 +36,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://shoestore-app.herokuapp.com/" target="_blank">
+  <a href="https://shoestore-app.herokuapp.com/" target="_blank">See Demo on
     <img alt="Demo on Heroku" src="https://github.com/eltonlazzarin/shoestore-app/blob/master/public/readmeassets/heroku.png">
   </a>
 </p>
